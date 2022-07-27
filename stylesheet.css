@@ -1,0 +1,35 @@
+.focus {
+  color: #33f;
+}
+
+.push {
+  color: orange;
+}
+.defense {
+  color: rgb(50, 82, 55);
+}
+
+li {
+  margin-left: 10px;
+}
+
+.icon {
+  width: 40px;
+  height: 40px;
+  margin: 10px;
+}
+
+h2 {
+  line-height: 0px;
+  padding: 3px;
+}
+
+p {
+  margin: 0px;
+  margin-left: 10px;
+}
+
+.move-name {
+  display: flex;
+  align-items: center;
+}
